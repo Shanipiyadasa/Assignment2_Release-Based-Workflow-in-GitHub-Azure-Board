@@ -23,3 +23,8 @@ Software delivery project demonstrating GitHub collaboration workflow, release b
 - Prevents empty username and password submission
 - Displays validation message for missing input
 
+## Product Filtering
+
+- Added filtering by category
+- Added filtering by price range
+- Users can narrow products using selected filters

@@ -17,3 +17,9 @@ Software delivery project demonstrating GitHub collaboration workflow, release b
 - Cart updates immediately after an item is removed
 - An empty cart message is displayed when all items have been removed
 
+## User Login Validation
+
+- Added basic login validation check
+- Prevents empty username and password submission
+- Displays validation message for missing input
+

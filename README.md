@@ -2,7 +2,45 @@
 Software delivery project demonstrating GitHub collaboration workflow, release based versioning and Azure Boards integration with full traceability between work items, commits and pull requests.
 
 
+
 ## Add wishlist button on product cards 
 -Each product card includes a wishlist button
 -Users can add or remove products from the wishlist directly from the product list
 -The wishlist button updates its state after each click (e.g., changes icon or appearance to reflect whether the item is added or removed)
+
+## Product Detail Page
+- Users can view the product description directly on the detail page
+- Stock or availability information is clearly displayed
+- Product details are structured and easy to read
+- The layout improves overall usability and user experience
+
+
+## Product Detail Page Layout
+- Added basic structure for product detail page
+- Includes title, image section, and description area
+
+
+## Product Search
+- Users can search products by keyword using the search bar
+- Search results update dynamically as the user types
+- Filters can be applied by category and price range
+
+## Cart Management
+- Users can remove individual items from the cart using the Remove button
+- Cart updates immediately after an item is removed
+- An empty cart message is displayed when all items have been removed
+
+
+## User Login Validation
+
+- Added basic login validation check
+- Prevents empty username and password submission
+- Displays validation message for missing input
+
+## Product Filtering
+
+- Added filtering by category
+- Added filtering by price range
+- Users can narrow products using selected filters
+
+

@@ -2,6 +2,13 @@
 Software delivery project demonstrating GitHub collaboration workflow, release based versioning and Azure Boards integration with full traceability between work items, commits and pull requests.
 
 
+## Product Detail Page
+- Users can view the product description directly on the detail page
+- Stock or availability information is clearly displayed
+- Product details are structured and easy to read
+- The layout improves overall usability and user experience
+
+
 ## Product Detail Page Layout
 - Added basic structure for product detail page
 - Includes title, image section, and description area
@@ -16,4 +23,5 @@ Software delivery project demonstrating GitHub collaboration workflow, release b
 - Users can remove individual items from the cart using the Remove button
 - Cart updates immediately after an item is removed
 - An empty cart message is displayed when all items have been removed
+
 

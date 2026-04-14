@@ -37,4 +37,3 @@ Software delivery project demonstrating GitHub collaboration workflow, release b
 - Added filtering by price range
 - Users can narrow products using selected filters
 
-

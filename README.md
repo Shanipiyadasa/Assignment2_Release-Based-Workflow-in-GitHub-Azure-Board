@@ -106,3 +106,9 @@ Software delivery project demonstrating GitHub collaboration workflow, release b
 - Visible products update instantly after a filter is selected
 - Filters can be combined to refine results further
 
+## Mobile Responsiveness
+- Product list page is fully responsive and works correctly on mobile
+- Product detail page adapts to smaller screens without layout issues
+- Cart page displays correctly on mobile with no broken layout
+- Key pages are optimized for a smooth mobile shopping experience
+

@@ -30,6 +30,12 @@ Software delivery project demonstrating GitHub collaboration workflow, release b
 - Cart updates immediately after an item is removed
 - An empty cart message is displayed when all items have been removed
 
+## User Registration Form 
+- New users can register through a dedicated registration form
+- Name, email, and password fields are clearly visible and required
+- Required fields are validated before submission
+- A success message is displayed after successful registration
+- Prevents submission if any required field is empty
 
 ## User Login Validation
 
@@ -43,7 +49,30 @@ Software delivery project demonstrating GitHub collaboration workflow, release b
 - Added filtering by price range
 - Users can narrow products using selected filters
 
+
 ##Search Results Handling
+
+## Release v1.1 Updates
+
+
+## Cart Quantity Controls
+- Added increase (+) and decrease (−) buttons for cart items
+- Users can adjust product quantity directly from the cart
+- Quantity updates dynamically without refreshing the page
+
+## Cart Quantity Validation
+- Prevented quantity from going below 1
+- Disabled decrease button at minimum limit
+- Ensured consistent quantity updates across UI and backend
+
+## Cart Interaction Improvements
+- Improved responsiveness of quantity controls
+- Added smooth UI updates when quantity changes
+- Enhanced overall user experience when modifying cart items
+
+
+- Added improvements and bug fixes for upcoming release
+
 
 - Displays matching products based on user search input
 - Updates search results dynamically as the user types

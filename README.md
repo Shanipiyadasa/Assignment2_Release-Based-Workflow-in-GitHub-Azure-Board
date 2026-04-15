@@ -82,13 +82,20 @@ Software delivery project demonstrating GitHub collaboration workflow, release b
 - Updates search results dynamically as the user types
 - Ensures relevant products are shown clearly in the results list
 
-##Empty State Message
+## Empty State Message
 
 - Displays a message when no search results are found
 - Helps users understand that no matching products exist
 - Provides clear feedback instead of showing an empty screen
 
-##Search UX Improvements
+## Search UX Improvements
 - Improves user experience with clear result feedback
 - Handles both successful searches and no-result cases
 - Ensures consistent UI behavior across all search scenarios
+
+## Product Filtering by Category and Price
+ 
+- Category filter is available to narrow products by type
+- Price range filter allows users to set a minimum and maximum price
+- Visible products update instantly after a filter is selected
+- Filters can be combined to refine results further

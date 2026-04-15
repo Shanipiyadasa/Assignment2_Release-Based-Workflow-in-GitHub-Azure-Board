@@ -70,6 +70,10 @@ Software delivery project demonstrating GitHub collaboration workflow, release b
 - Added smooth UI updates when quantity changes
 - Enhanced overall user experience when modifying cart items
 
+## Real-Time Cart Price Updates
+- Cart prices stay accurate as users adjust item quantities
+- Each item's subtotal reflects the current quantity at all times
+- The final cart total recalculates instantly with every change
 
 - Added improvements and bug fixes for upcoming release
 

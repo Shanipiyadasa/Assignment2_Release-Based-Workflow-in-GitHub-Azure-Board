@@ -11,3 +11,8 @@ Software delivery project demonstrating GitHub collaboration workflow, release b
 - Users can remove individual items from the cart using the Remove button
 - Cart updates immediately after an item is removed
 - An empty cart message is displayed when all items have been removed
+
+## Product Search Bar
+- A search input is clearly visible on the product listing page
+- Users can type any keyword to search for products
+- Matching products are displayed in the results as the search runs

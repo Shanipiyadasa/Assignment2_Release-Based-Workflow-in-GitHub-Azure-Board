@@ -25,10 +25,10 @@ Software delivery project demonstrating GitHub collaboration workflow, release b
 - Search results update dynamically as the user types
 - Filters can be applied by category and price range
 
-## Cart Management
-- Users can remove individual items from the cart using the Remove button
-- Cart updates immediately after an item is removed
-- An empty cart message is displayed when all items have been removed
+Cart Management
+* Users can remove individual items from the cart using the Remove button
+* Cart updates immediately after an item is removed
+* An empty cart message is displayed when all items have been removed
 
 
 ## Product Search Bar

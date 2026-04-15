@@ -4,9 +4,9 @@ Software delivery project demonstrating GitHub collaboration workflow, release b
 
 
 ## Add wishlist button on product cards 
--Each product card includes a wishlist button
--Users can add or remove products from the wishlist directly from the product list
--The wishlist button updates its state after each click (e.g., changes icon or appearance to reflect whether the item is added or removed)
+- Each product card includes a wishlist button
+- Users can add or remove products from the wishlist directly from the product list
+- The wishlist button updates its state after each click 
 
 ## Product Detail Page
 - Users can view the product description directly on the detail page
@@ -43,4 +43,19 @@ Software delivery project demonstrating GitHub collaboration workflow, release b
 - Added filtering by price range
 - Users can narrow products using selected filters
 
+##Search Results Handling
 
+- Displays matching products based on user search input
+- Updates search results dynamically as the user types
+- Ensures relevant products are shown clearly in the results list
+
+##Empty State Message
+
+- Displays a message when no search results are found
+- Helps users understand that no matching products exist
+- Provides clear feedback instead of showing an empty screen
+
+##Search UX Improvements
+- Improves user experience with clear result feedback
+- Handles both successful searches and no-result cases
+- Ensures consistent UI behavior across all search scenarios

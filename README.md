@@ -88,3 +88,10 @@ Software delivery project demonstrating GitHub collaboration workflow, release b
 - Improves user experience with clear result feedback
 - Handles both successful searches and no-result cases
 - Ensures consistent UI behavior across all search scenarios
+
+## Product Filtering by Category and Price
+ 
+- Category filter is available to narrow products by type
+- Price range filter allows users to set a minimum and maximum price
+- Visible products update instantly after a filter is selected
+- Filters can be combined to refine results further

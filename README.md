@@ -67,10 +67,11 @@ Software delivery project demonstrating GitHub collaboration workflow, release b
 - Added smooth UI updates when quantity changes
 - Enhanced overall user experience when modifying cart items
 
-## Cart Total Recalculation
-- Subtotal for each item reflects the correct quantity at all times
-- Overall cart total is recalculated whenever a quantity is adjusted
-- Price changes appear instantly in the cart without any page reload
+## Real-Time Cart Price Updates
+ 
+- Cart prices stay accurate as users adjust item quantities
+- Each item's subtotal reflects the current quantity at all times
+- The final cart total recalculates instantly with every change
 
 - Added improvements and bug fixes for upcoming release
 

@@ -30,6 +30,12 @@ Software delivery project demonstrating GitHub collaboration workflow, release b
 - Cart updates immediately after an item is removed
 - An empty cart message is displayed when all items have been removed
 
+## User Registration Form 
+- New users can register through a dedicated registration form
+- Name, email, and password fields are clearly visible and required
+- Required fields are validated before submission
+- A success message is displayed after successful registration
+- Prevents submission if any required field is empty
 
 ## User Login Validation
 

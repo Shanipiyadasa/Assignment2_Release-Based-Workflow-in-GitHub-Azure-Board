@@ -78,13 +78,13 @@ Software delivery project demonstrating GitHub collaboration workflow, release b
 - Updates search results dynamically as the user types
 - Ensures relevant products are shown clearly in the results list
 
-##Empty State Message
+## Empty State Message
 
 - Displays a message when no search results are found
 - Helps users understand that no matching products exist
 - Provides clear feedback instead of showing an empty screen
 
-##Search UX Improvements
+## Search UX Improvements
 - Improves user experience with clear result feedback
 - Handles both successful searches and no-result cases
 - Ensures consistent UI behavior across all search scenarios

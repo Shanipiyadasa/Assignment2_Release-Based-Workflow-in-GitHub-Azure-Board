@@ -67,6 +67,10 @@ Software delivery project demonstrating GitHub collaboration workflow, release b
 - Added smooth UI updates when quantity changes
 - Enhanced overall user experience when modifying cart items
 
+## Cart Total Updates
+- Cart subtotal updates correctly when item quantity is changed
+- Total price recalculates automatically after each quantity adjustment
+- All changes are reflected immediately without page reload
 
 - Added improvements and bug fixes for upcoming release
 

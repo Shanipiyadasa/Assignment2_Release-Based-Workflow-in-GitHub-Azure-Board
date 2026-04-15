@@ -30,6 +30,12 @@ Software delivery project demonstrating GitHub collaboration workflow, release b
 - Cart updates immediately after an item is removed
 - An empty cart message is displayed when all items have been removed
 
+
+## Product Search Bar
+- A search input is clearly visible on the product listing page
+- Users can type any keyword to search for products
+- Matching products are displayed in the results as the search runs
+
 ## User Registration Form 
 - New users can register through a dedicated registration form
 - Name, email, and password fields are clearly visible and required
@@ -99,3 +105,4 @@ Software delivery project demonstrating GitHub collaboration workflow, release b
 - Price range filter allows users to set a minimum and maximum price
 - Visible products update instantly after a filter is selected
 - Filters can be combined to refine results further
+

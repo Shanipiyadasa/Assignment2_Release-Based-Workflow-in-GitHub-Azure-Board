@@ -112,5 +112,7 @@ Cart Management
 - Cart page displays correctly on mobile with no broken layout
 - Key pages are optimized for a smooth mobile shopping experience
 
-TESTING SQUASH MERGE RULE
+TESTING SQUASH MERGE RULE - commit 1
+Squash rule test - commit 2
+Squash rule test - commit 3
 

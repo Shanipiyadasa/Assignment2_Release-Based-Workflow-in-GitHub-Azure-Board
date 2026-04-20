@@ -120,3 +120,4 @@ Squash rule test - commit 3
 - Add project overview and release workflow summary 
 - Document wishlist and product detail page features in README
 - Add product search and filtering features to README
+- Document cart management and quantity control improvements

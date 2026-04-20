@@ -116,3 +116,9 @@ TESTING SQUASH MERGE RULE - commit 1
 Squash rule test - commit 2
 Squash rule test - commit 3
 
+## Squash Rule 
+- Add project overview and release workflow summary 
+- Document wishlist and product detail page features in README
+- Add product search and filtering features to README
+- Document cart management and quantity control improvements
+- Add release v1.1 updates and mobile responsiveness details

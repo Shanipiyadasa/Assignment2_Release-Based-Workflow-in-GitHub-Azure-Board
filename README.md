@@ -113,4 +113,5 @@ Cart Management
 - Key pages are optimized for a smooth mobile shopping experience
 
 TESTING SQUASH MERGE RULE - commit 1
+Squash rule test - commit 2
 

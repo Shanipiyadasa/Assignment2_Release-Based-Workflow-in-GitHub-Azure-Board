@@ -118,3 +118,4 @@ Squash rule test - commit 3
 
 ## Squash Rule 
 - Add project overview and release workflow summary 
+- Document wishlist and product detail page features in README

@@ -116,3 +116,5 @@ TESTING SQUASH MERGE RULE - commit 1
 Squash rule test - commit 2
 Squash rule test - commit 3
 
+## Squash Rule 
+- Add project overview and release workflow summary 

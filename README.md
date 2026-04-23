@@ -116,6 +116,8 @@ TESTING SQUASH MERGE RULE - commit 1
 Squash rule test - commit 2
 Squash rule test - commit 3
 
+trigger pipeline
+
 ## Squash Rule 
 - Add project overview and release workflow summary 
 - Document wishlist and product detail page features in README
